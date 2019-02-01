@@ -1,3 +1,3 @@
 # hello-world
 test repository
-my name is Andrew and I'm a Software development manager by trade. i'm brushing up oon my GitHub skills
+my name is Andrew and I'm a Software Development Manager by trade. I'm brushing up on my GitHub skills
